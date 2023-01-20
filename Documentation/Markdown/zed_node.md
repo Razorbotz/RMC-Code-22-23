@@ -21,5 +21,7 @@ N/A
 
 # Change Log:
 7/3/2022: Documentation was created
+
 8/3/2022: Description and issues added by Andrew Burroughs
+
 9/30/2022: Markdown file was created by Andrew Burroughs

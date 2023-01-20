@@ -69,5 +69,7 @@ This function will cast the parameter and return the value of the parameter
 
 # Change Log:
 7/3/2022: Documentation was created
+
 9/30/2022: Description and issues were added by Andrew Burroughs
+
 10/1/2022: Markdown file was created by Andrew Burroughs

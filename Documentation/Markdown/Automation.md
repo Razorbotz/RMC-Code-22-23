@@ -120,5 +120,7 @@ The function should create a message of type Float32, set the data to the speed,
 
 # Change Log:
 7/3/2022: Documentation was created
+
 8/3/2022: Added Description and Issues, Software Documentation, and Function Documentation
+
 9/20/2022: Converted Word to Markdown

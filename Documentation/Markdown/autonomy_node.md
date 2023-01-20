@@ -31,4 +31,5 @@ The node will set the speed data and publish the speed data for the motors.
 
 # Change Log:
 7/3/2022: Documentation was created
+
 9/30/2022: Markdown file was created by Andrew Burroughs

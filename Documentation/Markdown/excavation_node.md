@@ -111,4 +111,5 @@ This function will allow the motors to move when they receive a valid speed comm
 
 # Change Log:
 7/1/2022: Documentation was created
+
 9/30/2022: Markdown was created by Andrew Burroughs

@@ -32,4 +32,5 @@ The node will set the pin to the value corresponding to the data from the msg an
 
 # Change Log:
 7/3/2022: Documentation was created
+
 9/30/2022: Markdown was created by Andrew Burroughs

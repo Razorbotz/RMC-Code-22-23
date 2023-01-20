@@ -22,4 +22,5 @@ The robot should perform some movements autonomously and should be able to fully
 
 # Change Log:
 7/3/2022: Documentation was created
+
 9/30/2022: Markdown file was created by Andrew Burroughs
